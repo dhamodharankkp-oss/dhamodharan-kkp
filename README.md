@@ -1,119 +1,122 @@
 # Dhamodharan KKP
 
-> **Program & Digital Initiatives Enabler | Senior Design Engineer | Makerspace Educator | Former Assistant Professor**
+> **Empowering Rural Communities @ Payir | Independent Researcher in Additive Manufacturing | Senior Design Engineer @ Tecplore**  
+> *Tiruchirappalli, Tamil Nadu, India*
 
-Welcome to my personal documentation hub and portfolio. Here you will find documentation of my work spanning educational toy design, additive manufacturing, parametric modeling with AI, creative computing, community makerspace education, and academic research.
+Welcome to my personal documentation hub and portfolio. Here you will find documentation of my open research in additive manufacturing, parametric CAD design, AR/WebXR experiences, and creative computing.
 
 ---
 
-### 🌐 Connect & Profiles
+### 🌐 Connect & Contact
 * **LinkedIn:** [linkedin.com/in/dhamodarankkp](https://www.linkedin.com/in/dhamodarankkp/)
 * **GitHub:** [github.com/dhamodharankkp-oss](https://github.com/dhamodharankkp-oss)
 * **Google Scholar:** [Dhamodaran K (JaxM2VsAAAAJ)](https://scholar.google.com/citations?user=JaxM2VsAAAAJ)
 * **ORCID:** [0009-0002-1777-0573](https://orcid.org/0009-0002-1777-0573)
-* **iNaturalist:** [inaturalist.org/people/10144834](https://www.inaturalist.org/people/10144834)
+* **Email:** [dhamodaranhk90@gmail.com](mailto:dhamodaranhk90@gmail.com)
 * **YouTube:** [@DhamoDarankkp](https://www.youtube.com/@DhamoDarankkp)
+* **iNaturalist:** [inaturalist.org/people/10144834](https://www.inaturalist.org/people/10144834)
 * **Notion Hub:** [Manufacturing & Mechanical Resources](https://dhamodaranmech.notion.site/Manufacturing-Technology-I-e4386db1935f4571aeba386cceae79ca)
 
 ---
 
-## 👨‍🏫 About Me
+## 👨‍💼 Professional Summary
 
-I am a multidisciplinary Production Engineer, Design Educator, and Digital Initiatives Enabler with over 9 years of higher-education teaching and 4+ years of industrial and entrepreneurial practice. My work bridges mechanical engineering, hands-on maker pedagogy, and emerging digital technologies:
+With over a decade of multifaceted experience spanning mechanical engineering, industry, academia, and digital enablement, my work centers on technology enablement, procedural CAD modeling, and independent research:
 
-* **Makerspace & Creative Learning:** Active educator at **Aarvam Learning Lab** and participant in the **MIT Media Lab Lifelong Kindergarten (LCL)** learning community, implementing the *4 Ps of Creative Learning* (Projects, Passion, Peers, Play) through tools like OctoStudio, 3D printing, and creative coding.
-* **Rural Empowerment & Digital Initiatives:** Program and digital initiatives enabler at **Payir**, fostering STEM accessibility, grassroots learning, and digital tool adoption in rural communities.
-* **Engineering Design & Spatial Prototyping:** Senior Design Engineer at **Tecplore**, developing physical product designs, open hardware educational kits, and WebXR/AR interactive simulations.
-* **State Mentorship:** Mentor under the Tamil Nadu Government's **Naan Mudhalvan** skill development mission, training engineering students in modern CAD/CAM, additive manufacturing, and digital design workflows.
+* **Rural Community Enablement @ Payir:** Focusing on beginner-level AI workflows, Google Workspace automations, and foundational NGO administrative workflows to support rural community operations.
+* **Independent Open Research:** Conducting open research in Additive Manufacturing (Design for Additive Manufacturing - DfAM), constructionist maker pedagogy, tactile math manipulatives, and physical computing frameworks (*open research focus; not directly teaching in classrooms*).
+* **Engineering Design @ Tecplore:** Specializing specifically in **Additive Manufacturing** and **AR / WebXR** spatial experiences.
+* **Academic & Industrial Background:** 9+ years in collegiate engineering education (MAMCET & MIET), 7 years as a precision machining entrepreneur, and industrial sourcing/design roles.
 
 ---
 
 ## 🎓 Educational Qualifications
 
-* **M.E. in Manufacturing Engineering** — Master of Engineering
-* **B.E. in Mechanical Engineering** — Bachelor of Engineering
-* **D.M.E. in Mechanical Engineering** — State Board Technical Diploma
-
----
-
-## 🏅 Certifications & Mentorship Recognitions
-
-* **Certified CodeAI Facilitator (AI Concentrator Track)** — *CodeAI (October 2026)*  
-  Completed 16 hours of specialized professional learning covering Facilitator 101, CodeAI Pedagogy, Dance Party AI, AI for Oceans, and Mix & Move with AI. (Certificate ID: `IFT26-029`).
-* **Mentor in Vivo Ignite 2026** — *Shooting Stars Foundation & Mango Education (2026)*  
-  Awarded Certificate of Appreciation for mentoring student innovators to refine ideas, engineer functional prototypes, and craft presentation pitches.
-* **Mentor — Naan Mudhalvan** — *Tamil Nadu Skill Development Mission*  
-  Mentoring engineering students across colleges in digital design, additive manufacturing, and emerging technology pipelines.
-* **NDT Level II Certified (SNT-TC-1A)** — *Quality Inspection Services*  
-  Non-Destructive Testing practical certification in industrial quality and inspection standards.
+* **M.E. in Manufacturing Engineering** *(2012 – 2015)*  
+  Anna University — *First Class with Distinction / Honors*
+* **B.E. in Production Engineering** *(2008 – 2011)*  
+  J.J. College of Engineering and Technology
+* **D.M.E. in Mechanical Engineering**  
+  State Board of Technical Education, Tamil Nadu
 
 ---
 
 ## 💼 Professional Experience
 
-### 1. Current Initiatives & Roles
+### 1. Current Roles & Research
 
-* **Program & Digital Initiatives Enabler** — *Payir*  
-  Leading digital enablement, educational innovation, and hands-on STEM interventions for rural communities and school children.
-* **Senior Design Engineer** — *Tecplore*  
-  Directing mechanical modeling, digital fabrication pipelines, interactive WebXR spatial media, and physical prototype manufacturing.
-* **Makerspace Educator** — *Aarvam Learning Lab*  
-  Facilitating creative learning experiences, tinkering workshops, physical computing, and exploratory maker projects grounded in constructionist pedagogy.
-* **Mentor** — *Naan Mudhalvan (Tamil Nadu Skill Development Mission)*  
-  Guiding polytechnic and undergraduate engineering students through modern CAD/CAM, prototyping techniques, and industrial readiness.
+* **Project Associate** — *Payir* *(May 2024 – Present | Turaiyur, Tamil Nadu)*  
+  * Supporting organizational operations through AI workflows and Google Workspace automations.
+  * Assisting with beginner-level NGO administrative tasks and digital record management.
 
-### 2. Academic & Industry Experience
+* **Independent Researcher** — *Self-Employed* *(September 2025 – Present)*  
+  * Conducting open research in **Additive Manufacturing** and **Design for Additive Manufacturing (DfAM)**.
+  * Formulating open educational frameworks, empirical slicing optimizations, and parametric code (OpenSCAD) for tactile learning manipulatives (such as the Numicon DBR redesign).
+  * *(Note: Focus is strictly on independent open research and framework design, not direct student teaching).*
 
-* **Assistant Professor & CAD/CAM Lab In-Charge** — *M.A.M. College of Engineering & Technology, Trichy*
-  * Taught *Manufacturing Technology* and *Design of Machine Elements*.
-  * Managed CAD/CAM, CAMD, and Simulation Labs.
-  * Served as **IIT-Madras PALS Department In-Charge** and **Design Club Coordinator**, mentoring student teams to finalist awards in 3D Printing Hackathons and industrial case studies.
-  * Organized CSR hands-on technology workshops delivering Google Classroom and Mind Mapping tools to government schools across Trichy, Ariyalur, and Perambalur districts.
-* **Course Instructor** — *Quality Inspection Services (QIS), Trichy*
-  * Conducted lectures and hands-on practical lab sessions for the **NDT Level II (SNT Certified)** program.
-  * Facilitated institutional MOUs and placement/practical training programs with St. Joseph's College (Autonomous) Trichy, Rover Polytechnic, and Government Polytechnic College Perambalur.
-* **Assistant Professor & Lab Administrator** — *M.I.E.T. Engineering College, Trichy*
-  * Handled core courses in *Manufacturing Technology I & II*, *Metrology & Measurements*, and *Conventional Machining*.
-  * Administered the CAD/CAM Lab and conducted value-added certification programs in **Autodesk Inventor** and **Fusion 360**.
-  * Led the compilation of **NBA SAR Report Criterion 4** for the Department of Mechanical Engineering.
-* **Teaching Assistant (Lecturer)** — *M.I.E.T. Engineering College, Trichy*
-  * Provided IT administration, CAD/CAM lab maintenance, software troubleshooting, and hands-on laboratory instruction.
-* **Cutting Plan Engineer & Trainee Engineer** — *Ambigai Engineering Pvt. Ltd.*
-  * Formulated raw material cutting plans and material nesting for BHEL industrial projects.
-  * Programmed CNC Vertical Machining Centers (VMC) and designed jigs and fixtures for windmill nacelle assemblies.
+* **Senior Design Engineer** — *Tecplore* *(July 2023 – Present)*  
+  * Dedicated focus on **Additive Manufacturing** (DfAM, 3D printing pipelines) and **Augmented Reality (AR / WebXR)** spatial interactive applications.
+
+* **Mentorship Activities** *(Past / Periodic — currently not fully active)*  
+  * *Naan Mudhalvan (Tamil Nadu Skill Development Mission):* Previously trained faculty and students in 3D printing, IoT, and Industry 4.0 lab setups.
+  * *Vivo Ignite 2026:* Mentored student innovators in prototype engineering and pitch design.
+
+---
+
+### 2. Previous Industry & Academic Experience
+
+* **Business Development Manager & Freelance Designer** — *GWT Education Pvt. Ltd.* *(Sep 2022 – May 2024)*  
+  * Managed business outreach, educational LMS pipelines, and freelance mechanical CAD designs.
+* **Senior Sourcing Engineer** — *Frigate Engineering Services* *(Feb 2023 – May 2023)*  
+  * Led vendor management, quote preparation, and New Product Development (NPD) sourcing strategies.
+* **Assistant Professor** — *M.A.M. College of Engineering & Technology, Trichy* *(Jan 2021 – Aug 2022)*  
+  * Taught *Manufacturing Technology* and *Design of Machine Elements*; managed CAD/CAM and Simulation Labs; coordinated IIT PALS hackathon teams and CSR school outreach.
+* **3rd Party NDT Inspector** — *Quality Inspection Service (QIS), Trichy* *(Jun 2019 – Dec 2020)*  
+  * Provided certified NDT Level II inspection services and practical training for polytechnic students.
+* **Entrepreneur** — *Sree Madhurambigai Engineering Works, Trichy* *(Jan 2013 – Dec 2019 | 7 Years)*  
+  * Founded and operated a precision tool room delivering high-accuracy impact specimens and precision surface grinding for clients including BHEL, Harihara Alloys, and Sri Energy Valves.
+* **Assistant Professor & Lecturer** — *M.I.E.T. Engineering College, Trichy* *(Sep 2012 – May 2019 | 6 Years 9 Months)*  
+  * Taught core manufacturing, metrology, and CAD/CAM courses; compiled NBA SAR Criterion 4; administered CAD/CAM lab IT infrastructure.
+* **Design Engineer** — *Ambigai Engineering Works, Trichy* *(May 2011 – Aug 2012)*  
+  * Designed jigs and fixtures for vertical milling machines for windmill nacelle components; prepared raw material cutting plans for non-pressure gate valves.
+
+---
+
+## 🏅 Certifications & Honors
+
+* **Certified CodeAI Facilitator (AI Concentrator Track)** — *CodeAI (October 2026 | ID: `IFT26-029`)*  
+  16 professional learning hours (Facilitator 101, CodeAI Pedagogy, Dance Party AI, AI for Oceans, Mix & Move with AI).
+* **Certificate of Appreciation (Mentor)** — *Vivo Ignite 2026 (Mango Education & Shooting Stars Foundation)*
+* **NDT Level II Inspector (SNT-TC-1A)** — *Quality Inspection Services*
+* **AI Champion for Nonprofits** — *Certifications in Digital Education & Non-Profit Workflows*
+* **FigJam Design Lab & Graphic Design Foundations**
 
 ---
 
 ## 🔬 Research & Publications
 
-Research indexed on [Google Scholar](https://scholar.google.com/citations?user=JaxM2VsAAAAJ) and [ORCID](https://orcid.org/0009-0002-1777-0573):
+Indexed on [Google Scholar](https://scholar.google.com/citations?user=JaxM2VsAAAAJ) and [ORCID](https://orcid.org/0009-0002-1777-0573):
 
-1. **Multi-objective optimization of end milling process parameter for stir casted alumina reinforced aluminium metal matrix composite using RSM**  
-   *Investigation into cutting parameters, surface finish, and tool wear using Response Surface Methodology.*
-2. **Limbs Related Handicap Drivable Non-Commercial Electric Shuttle Vehicle**  
-   *Inclusive, accessible vehicle architecture for individuals with limb mobility challenges.*
-3. **Nesting Of Sheet Metal Parts Using Parallel Genetic Algorithm**  
-   *Optimization of 2D raw material cutting layouts to minimize scrap and fabrication costs.*
-4. **Design and Analysis of Mechanical Steering Housing**  
-   *Structural CAE analysis and finite-element validation of automotive steering enclosures.*
+1. **Multi-objective optimization of end milling process parameter for stir casted alumina reinforced aluminium metal matrix composite using RSM**
+2. **Limbs Related Handicap Drivable Non-Commercial Electric Shuttle Vehicle**
+3. **Nesting Of Sheet Metal Parts Using Parallel Genetic Algorithm**
+4. **Design and Analysis of Mechanical Steering Housing**
 
 ---
 
 ## 🛠️ Core Competencies
 
-| Domain | Tools & Technologies |
+| Domain | Focus Areas |
 | :--- | :--- |
-| **CAD / CAM / CAE** | Autodesk Inventor, Autodesk Fusion 360, OpenSCAD, LibreCAD, CAMD, Finite Element Simulation |
-| **Additive Manufacturing** | Design for Additive Manufacturing (DfAM), FDM 3D Printing, Slicing Optimization, Recycled PLA |
-| **Creative Coding & EdTech** | OctoStudio, Block Coding, Turtle Art, Scratch, Agentic AI for Geometry Synthesis, Notion, LMS |
-| **Spatial Computing & Web3D** | WebXR, Google `<model-viewer>`, Three.js, Interactive 3D Physics Simulators |
-| **Quality & Inspection** | Non-Destructive Testing (NDT Level II - SNT Certified), Metrology & Precision Measurement |
+| **Additive Manufacturing** | Design for Additive Manufacturing (DfAM), FDM 3D Printing, Shell Slicing Optimization, Recycled PLA |
+| **CAD / CAM** | OpenSCAD Procedural Modeling, Autodesk Inventor, Fusion 360, Jigs & Fixture Design |
+| **Spatial Media & AR** | WebXR Device API, Three.js, Google `<model-viewer>`, Mobile WebAR |
+| **Digital Enablement** | Google Workspace Automation, AI Workflows for Nonprofits, Notion |
+| **Inspection & Quality** | NDT Level II, Precision Surface Grinding, Metrology |
 
 ---
 
 ## 📚 Portfolio Navigation
-
-Explore the documented projects across the site:
 
 * [**Research Overview & Frameworks**](research-overview.md): Open research in additive manufacturing, DBR frameworks, and educational toy kits.
 * [**Toy Designs, EdTech & Products**](projects/toy-designs-and-products.md):
@@ -121,9 +124,9 @@ Explore the documented projects across the site:
   * [**Numicon Math Manipulatives (Shapes 1–10)**](projects/toy-designs-and-products/numicon-math-shapes.md): DBR redesign of arithmetic tiles with shell-dominant slicing.
   * [**Tamil Mensuration 3D Solids (அளவியல்)**](projects/toy-designs-and-products/tamil-mensuration-openscad.md): OpenSCAD tactile models for Tamil Nadu Class 10 Math.
   * [**Parametric Math Manipulatives (AI + OpenSCAD)**](projects/toy-designs-and-products/parametric-math-manipulatives.md): Agentic AI workflows with OpenSCAD.
-  * [**AI + CS Facilitator Training (CodeAI)**](projects/toy-designs-and-products/codeai-ift.md): Community of Practice for AI literacy.
+  * [**CodeAI Facilitator Training & Certifications**](projects/toy-designs-and-products/codeai-ift.md): Certified CodeAI Facilitator documentation & Vivo Ignite.
 * [**Tinkering & Creative Coding**](projects/tinkering/turtle-art/turtle-art.md):
-  * [**OctoStudio & MIT Media Lab LCL Reflection**](projects/tinkering/creative-coding/octostudio-lcl.md): 4 Ps, sensor computation, and Aarvam Learning Lab makerspace practice.
+  * [**OctoStudio & MIT Media Lab LCL Reflection**](projects/tinkering/creative-coding/octostudio-lcl.md): 4 Ps, sensor computation, and open research reflection.
   * [**Turtle Art – Mathematical Patterns**](projects/tinkering/turtle-art/turtle-art-mathematical-patterns.md): Generative code to 3D print.
 * [**Augmented Reality (AR) & WebXR Overview**](projects/ar-webxr-overview.md): Convex Lens optical bench, 3D animal gallery, and butterfly flight experiences.
 * [**Instructables**](projects/instructables/instructables.md): Step-by-step maker tutorials including the *Pi Master Challenge*.

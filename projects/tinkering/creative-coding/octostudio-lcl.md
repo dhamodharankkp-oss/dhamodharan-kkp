@@ -2,7 +2,7 @@
 
 > **Learning Creative Learning (April & May 2026)**  
 > *A four-week journey with community facilitators — Curiosity, creativity, and connection everywhere.*  
-> *Facilitated & Documented by Dhamodharan KKP — Makerspace Educator at Aarvam Learning Lab*
+> *Facilitated & Documented by Dhamodharan KKP — Independent Researcher & Creative Learning Facilitator*
 
 ---
 
@@ -66,14 +66,14 @@ In my final synthesis on the canvas, I mapped out the evolution across the 4 Ps:
 
 ## 🏫 Grounded Practice at Aarvam Learning Lab
 
-This journey directly shapes our daily pedagogical interventions at **Aarvam Learning Lab** in partnership with **Payir**, **Amagi Foundation**, and **Tecplore**:
+This journey directly shapes our open pedagogical research framework connected with community initiatives in partnership with **Payir**, **Amagi Foundation**, and **Tecplore**:
 
 1. **The Creative Learning Spiral:**  
    $$\text{Imagine} \longrightarrow \text{Create} \longrightarrow \text{Play} \longrightarrow \text{Share} \longrightarrow \text{Reflect} \longrightarrow \text{Iterate}$$
 2. **Nature-Infused Computation:**  
-   Children explore their village ecology, record bird and plant sightings on **iNaturalist**, and then program interactive animations of those species in **OctoStudio**.
+   Frameworks where children explore their local ecology, record bird and plant sightings on **iNaturalist**, and then program interactive animations of those species in **OctoStudio**.
 3. **Makerspace Empowerment:**  
-   Providing rural youth with the agency to imagine, build, and share interactive artifacts with their community.
+   Designing tools that provide rural youth with the agency to imagine, build, and share interactive artifacts with their community.
 
 ---
 

@@ -1,7 +1,7 @@
 # CodeAI International Facilitator Training 2026 & Mentorship
 
 > **Certified CodeAI Facilitator | AI Concentrator Facilitator Track (16 Hours)**  
-> *Facilitated & Documented by Dhamodharan KKP — Makerspace Educator at Aarvam Learning Lab*
+> *Facilitated & Documented by Dhamodharan KKP — Independent Researcher & Certified Facilitator*
 
 ---
 
