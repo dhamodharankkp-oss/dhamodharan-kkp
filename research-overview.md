@@ -39,7 +39,7 @@ This project documents the open research journey in:
 
 #### 🚀 Key Projects Under This Initiative
 
-1. [**Parametric Math Manipulatives Baseline Generator**](projects/edtech-ai/parametric-math-manipulatives.md)  
+1. [**Parametric Math Manipulatives Baseline Generator**](projects/toy-designs-and-products/parametric-math-manipulatives.md)  
    *Translating empirical literature on spatial reasoning and early math interventions into dynamic OpenSCAD parametric code via Agentic AI workflows.*
 2. [**MorphPlay: Circle to Sphere**](projects/toy-designs-and-products/morphplay-circle-to-sphere.md)  
    *Kinetic topological toy exploring continuous dimensional transitions from flat discs into three-dimensional spherical geometries.*

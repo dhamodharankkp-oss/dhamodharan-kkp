@@ -103,13 +103,12 @@ Research indexed on [Google Scholar](https://scholar.google.com/citations?user=J
 Explore the documented projects across the site:
 
 * [**Research Overview & Frameworks**](research-overview.md): Open research in additive manufacturing, DBR frameworks, and educational toy kits.
-* [**Toy Designs & Products**](projects/toy-designs-and-products.md):
+* [**Toy Designs, EdTech & Products**](projects/toy-designs-and-products.md):
   * [**MorphPlay: Circle to Sphere**](projects/toy-designs-and-products/morphplay-circle-to-sphere.md): Kinetic topological toy.
   * [**Numicon Math Manipulatives (Shapes 1–10)**](projects/toy-designs-and-products/numicon-math-shapes.md): DBR redesign of arithmetic tiles with shell-dominant slicing.
-* [**EdTech & Parametric AI**](projects/edtech-ai/parametric-math-manipulatives.md):
-  * [**Tamil Mensuration 3D Solids (அளவியல்)**](projects/edtech-ai/tamil-mensuration-openscad.md): OpenSCAD tactile models for Tamil Nadu Class 10 Math.
-  * [**Parametric Math Manipulative Baseline Generator**](projects/edtech-ai/parametric-math-manipulatives.md): Agentic AI workflows with OpenSCAD.
-  * [**AI + CS Facilitator Training (CodeAI)**](projects/edtech-ai/codeai-ift.md): Community of Practice for AI literacy.
+  * [**Tamil Mensuration 3D Solids (அளவியல்)**](projects/toy-designs-and-products/tamil-mensuration-openscad.md): OpenSCAD tactile models for Tamil Nadu Class 10 Math.
+  * [**Parametric Math Manipulatives (AI + OpenSCAD)**](projects/toy-designs-and-products/parametric-math-manipulatives.md): Agentic AI workflows with OpenSCAD.
+  * [**AI + CS Facilitator Training (CodeAI)**](projects/toy-designs-and-products/codeai-ift.md): Community of Practice for AI literacy.
 * [**Tinkering & Creative Coding**](projects/tinkering/turtle-art/turtle-art.md):
   * [**OctoStudio & MIT Media Lab LCL Reflection**](projects/tinkering/creative-coding/octostudio-lcl.md): 4 Ps, sensor computation, and Aarvam Learning Lab makerspace practice.
   * [**Turtle Art – Mathematical Patterns**](projects/tinkering/turtle-art/turtle-art-mathematical-patterns.md): Generative code to 3D print.
