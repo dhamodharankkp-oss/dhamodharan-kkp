@@ -36,6 +36,19 @@ I am a multidisciplinary Production Engineer, Design Educator, and Digital Initi
 
 ---
 
+## 🏅 Certifications & Mentorship Recognitions
+
+* **Certified CodeAI Facilitator (AI Concentrator Track)** — *CodeAI (October 2026)*  
+  Completed 16 hours of specialized professional learning covering Facilitator 101, CodeAI Pedagogy, Dance Party AI, AI for Oceans, and Mix & Move with AI. (Certificate ID: `IFT26-029`).
+* **Mentor in Vivo Ignite 2026** — *Shooting Stars Foundation & Mango Education (2026)*  
+  Awarded Certificate of Appreciation for mentoring student innovators to refine ideas, engineer functional prototypes, and craft presentation pitches.
+* **Mentor — Naan Mudhalvan** — *Tamil Nadu Skill Development Mission*  
+  Mentoring engineering students across colleges in digital design, additive manufacturing, and emerging technology pipelines.
+* **NDT Level II Certified (SNT-TC-1A)** — *Quality Inspection Services*  
+  Non-Destructive Testing practical certification in industrial quality and inspection standards.
+
+---
+
 ## 💼 Professional Experience
 
 ### 1. Current Initiatives & Roles

@@ -1,48 +1,66 @@
-# AI + Computer Science Instructional Facilitator Training (CodeAI)
+# CodeAI International Facilitator Training 2026 & Mentorship
 
-> **Empowering Educators to Integrate Artificial Intelligence & Computer Science in Community Practice**  
-> *Facilitated and Documented by Dhamodharan KKP*
-
----
-
-## 📘 Program Overview
-
-The **AI + Computer Science Instructional Facilitator Training (CodeAI IFT)** is an intensive professional development and community-of-practice program designed to prepare instructional leaders and makerspace educators to bring AI literacy, computational thinking, and hands-on computer science into grassroots learning environments.
-
-As an active instructional facilitator and makerspace educator at **Aarvam Learning Lab** (collaborating with **Payir** and **Amagi Foundation**), this documentation tracks the curriculum modules, instructional strategies, evidence of community practice, and educator reflections.
+> **Certified CodeAI Facilitator | AI Concentrator Facilitator Track (16 Hours)**  
+> *Facilitated & Documented by Dhamodharan KKP — Makerspace Educator at Aarvam Learning Lab*
 
 ---
 
-## 🧱 Core Modules & Learning Architecture
+## 🏅 Official Credentials & Certifications
+
+### 1. Certified CodeAI Facilitator (October 2026)
+* **Issuing Organization:** **CodeAI** ([code.org](https://code.org))
+* **Credential Title:** **Certified CodeAI Facilitator**
+* **Track:** **AI Concentrator Facilitator Track**
+* **Certificate ID:** `IFT26-029` (Verification: `felipe.fontecilla@code.org`)
+* **Authorized Signatory:** **Karim Meghji** — *President and Chief Executive Officer, CodeAI*
+* **Certificate Document:** [`IFT26-029_Dhamodharan_K.pdf`](../../assets/certificates/IFT26-029_Dhamodharan_K.pdf)
+
+#### Professional Learning Hours Breakdown (16 Hours Total):
+| Module / Workshop | Track Duration | Focus & Competency |
+| :--- | :--- | :--- |
+| **Facilitator 101 Workshop** | 10 Hours | Live synchronous and self-paced facilitator coaching, cohort leadership, and pedagogical scaffolding. |
+| **CodeAI Pedagogy – International Course** | 2 Hours | Universal design for learning (UDL), culturally responsive computing, and inquiry-based AI pedagogy. |
+| **Dance Party: AI Edition** | 1 Hour | Interactive creative coding combining music, choreographic algorithms, and generative AI effects. |
+| **AI for Oceans** | 1 Hour | Machine learning classification, training dataset bias, ethical data collection, and marine ecology preservation. |
+| **Mix & Move with AI** | 2 Hours | Body tracking, computer vision heuristics, and sensor-driven physical computing interventions. |
+
+---
+
+### 2. Vivo Ignite 2026 — Mentor Certificate of Appreciation
+* **Issuing Organizations:** **Shooting Stars Foundation** & **Mango Education**
+* **Role:** **Mentor in Vivo Ignite 2026**
+* **Authorized Signatory:** **R. Obuli Chandran** — *CEO, Mango Education*
+* **Citation:** *"In recognition of outstanding contribution as a Mentor in Vivo Ignite 2026. Guidance and expertise were instrumental in helping participants refine their ideas, build functional prototypes, and craft compelling presentation videos for the national evaluation."*
+* **Certificate Document:** [`Dhamodharan - Vivo Ignite 2026 - Mentoring Certificate.pdf`](../../assets/certificates/Dhamodharan%20-%20Vivo%20Ignite%202026%20-%20Mentoring%20Certificate.pdf)
+
+---
+
+## 📂 Digital Portfolio & Facilitator Evidence
+
+All operational curriculum notes, community summaries, and peer collaboration logs are archived in the **[Dhamodaran K AI+CS IFT - CodeAI Google Drive Workspace](https://drive.google.com/drive/folders/18Y4511_XjzenXn3xjKDwxcJ0xXUFTCt8?usp=drive_link)**:
 
 ```mermaid
 flowchart TD
-    M1["📖 1. Prework & Foundations<br>AI Literacy & Computational Thinking Concepts"] --> M2["💻 2. Asynchronous Core Modules<br>Prompt Engineering, Ethics & Code Generation"]
-    M2 --> M3["🤝 3. Community of Practice Sessions<br>Live Peer Facilitation & Collaborative Problem Solving"]
-    M3 --> M4["🛠️ 4. Classroom Implementation Evidence<br>Hands-on Student Interventions & Artefacts"]
-    M4 --> M5["📝 5. Final Synthesis & Reflection<br>Iterative Pedagogical Roadmap for Rural Outreach"]
+    A["AI+CS IFT Digital Notebook 2026<br>Master Portfolio"] --> B1["Prework & Foundational Documents<br>Readiness & Ethics"]
+    A --> B2["Asynchronous Learning Modules<br>16 Hours AI Concentrator"]
+    A --> B3["Evidence: Community Practice<br>Session Summaries & Student Artefacts"]
+    A --> B4["Evidence: Peer Collaboration<br>Co-Teaching Protocols & Reviews"]
+    A --> B5["Evidence: AI Integrator<br>Classroom Tool Scaffolding"]
+    A --> B6["Final Synthesis & Reflection<br>Rural Makerspace Deployment"]
 ```
 
----
-
-## 🔍 Key Highlights & Pedagogical Focus
-
-### 1. Asynchronous Modules & Foundations
-* **AI Literacy for Young Learners:** Moving beyond black-box AI concepts by teaching explainable models, machine perception, and generative tools.
-* **Block Coding to Computational Logic:** Scaffolding the transition from block-based creative tools (OctoStudio, Scratch) to AI-assisted logic design.
-* **Ethics, Bias, and Digital Citizenship:** Engaging students in critical discussions about algorithmic fairness, privacy, and responsible AI use.
-
-### 2. Evidence — Community of Practice (CoP)
-* Regular collaborative sessions with cohort educators analyzing classroom implementation challenges.
-* Facilitating peer learning protocols: discussing student work samples, addressing troubleshooting bottlenecks in low-bandwidth environments, and co-designing lesson adaptations.
-
-### 3. Makerspace & Rural Integration
-* Tailoring instructional modules for learners in rural government schools and community learning labs.
-* Linking AI concepts with physical artifacts: using generative tools to assist with 3D design (OpenSCAD), sensor-driven computing (OctoStudio), and biological observation (iNaturalist).
+### Key Portfolio Documents:
+1. **AI+CS IFT Digital Notebook - 2026:** Master portfolio documenting learning milestones, pedagogical reflections, and instructional lesson plans.
+2. **Evidence — AI Integrator Documents (7.2 MB):** Deep dive into integrating conversational AI, prompt design, and machine learning models into K-12 learning environments.
+3. **Evidence — Community Practice & Session Summaries:** Empirical records from live workshops conducted at **Aarvam Learning Lab** in collaboration with **Payir** and **Amagi Foundation**.
+4. **Evidence — Peer Collaboration Documents:** Collaborative co-design records, feedback loops, and peer curriculum reviews across the international facilitator cohort.
+5. **Asynchronous Modules & Attendance Log:** Complete verification of synchronous workshops, peer meetups, and asynchronous coursework.
+6. **Final Reflection Document:** Roadmap for translating international AI educational standards into accessible, bilingual (Tamil & English) makerspace activities for rural Tamil Nadu.
 
 ---
 
-## 🌟 Final Reflection & Future Roadmap
+## 🏫 Grounded Classroom Applications at Aarvam Learning Lab
 
-* **Key Takeaway:** AI in education is most impactful when anchored in tangible, playful, and human-centered problems rather than purely virtual exercises.
-* **Next Steps:** Developing bilingual (Tamil & English) offline AI/CS learning modules for community youth centers across rural Tamil Nadu.
+* **AI Literacy Without Black Boxes:** Teaching young students how classifiers work using *AI for Oceans* and physical cards before moving to code.
+* **Physical-Digital Synthesis:** Connecting AI concepts directly with physical making—such as parametric OpenSCAD toy generation and OctoStudio sensor interactions.
+* **Ethics and Critical Thinking:** Prompting students to interrogate algorithm bias, data collection ethics, and societal implications of artificial intelligence.
