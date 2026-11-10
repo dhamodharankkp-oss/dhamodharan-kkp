@@ -86,17 +86,19 @@ With over a decade of multifaceted experience spanning mechanical engineering, i
 
 * **[AI Champion for Nonprofits](certifications.md#1-ai-champion-for-nonprofits)** — *Microsoft Philanthropies (Feb 2025)*  
   Verified on [Credly](https://www.credly.com/go/NbONqUwg) for empowering social impact initiatives through ethical AI workflows.
-* **[Certified CodeAI Facilitator (AI Concentrator Track)](certifications.md#2-certified-codeai-facilitator-ai-concentrator-track)** — *CodeAI (Oct 2026 | ID: `IFT26-029`)*  
+* **[Canva Design School: AI for Nonprofits](certifications.md#2-canva-design-school-certification-award-ai-for-nonprofits)** — *Canva Design School (Oct 2026)*  
+  Completed learning path & course series ([Award ID: 22e9b153-1731-43d4-bf11-501976af7d89](https://www.canva.com/design-school/certification-award/22e9b153-1731-43d4-bf11-501976af7d89)).
+* **[Certified CodeAI Facilitator (AI Concentrator Track)](certifications.md#3-certified-codeai-facilitator-ai-concentrator-track)** — *CodeAI (Oct 2026 | ID: `IFT26-029`)*  
   16 professional learning hours (Facilitator 101, CodeAI Pedagogy, Dance Party AI, AI for Oceans, Mix & Move with AI).
-* **[Unity Professional Development Course](certifications.md#3-unity-professional-development-course)** — *Unity Technologies (Aug 2025)*  
+* **[Unity Professional Development Course](certifications.md#4-unity-professional-development-course)** — *Unity Technologies (Aug 2025)*  
   Completed Unity game engine curriculum planning, pedagogical best practices, and 3D interactive gallery project.
-* **[Teacher Educator Programme: Skills for 21st Century Teaching](certifications.md#4-teacher-educator-programme-skills-for-21st-century-teaching--learning)** — *The Open University, ACDE, TESSA & IET (Apr 2025)*  
+* **[Teacher Educator Programme: Skills for 21st Century Teaching](certifications.md#5-teacher-educator-programme-skills-for-21st-century-teaching--learning)** — *The Open University, ACDE, TESSA & IET (Apr 2025)*  
   21st-century teaching methods and mentor teacher development ([OpenLearn Create ID: 5757](https://www.open.edu/openlearncreate/course/view.php?id=5757)).
-* **[Code Clubs Knowledge Level Certificate](certifications.md#5-code-clubs-knowledge-level-certificate)** — *Team4Tech (Aug 2026)*  
+* **[Code Clubs Knowledge Level Certificate](certifications.md#6-code-clubs-knowledge-level-certificate)** — *Team4Tech (Aug 2026)*  
   Fostering community-based youth coding initiatives.
-* **[Certificate of Appreciation — Mentor](certifications.md#6-certificate-of-appreciation--mentor-in-vivo-ignite-2026)** — *Vivo Ignite 2026 (Mango Education & Shooting Stars Foundation)*  
+* **[Certificate of Appreciation — Mentor](certifications.md#7-certificate-of-appreciation--mentor-in-vivo-ignite-2026)** — *Vivo Ignite 2026 (Mango Education & Shooting Stars Foundation)*  
   Mentoring student innovators in functional prototype engineering and competition pitches.
-* **[NDT Level II Inspector (SNT-TC-1A)](certifications.md#7-ndt-level-ii-certified-inspector)** — *Quality Inspection Services*
+* **[NDT Level II Inspector (SNT-TC-1A)](certifications.md#8-ndt-level-ii-certified-inspector)** — *Quality Inspection Services*
 
 👉 *[View all certificate images, badges, and documentation here](certifications.md)*.
 

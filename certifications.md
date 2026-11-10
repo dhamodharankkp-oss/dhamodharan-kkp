@@ -16,7 +16,22 @@
 
 ---
 
-### 2. Certified CodeAI Facilitator (AI Concentrator Track)
+### 2. Canva Design School Certification Award: AI for Nonprofits
+* **Issuing Organization:** **Canva Design School**
+* **Award Verification:** [Canva Certification Award (Award ID: 22e9b153-1731-43d4-bf11-501976af7d89)](https://www.canva.com/design-school/certification-award/22e9b153-1731-43d4-bf11-501976af7d89)
+* **Learning Path Completed:** **AI for Nonprofits** *(Completed October 20, 2026)*
+* **Curriculum & Completed Course Series:**
+  1. **Welcome to the AI for Nonprofits Course Series** *(Completed: Aug 30, 2026)*
+  2. **Daily Wins with AI for Nonprofits** *(Completed: Oct 20, 2026)*
+  3. **Build Smarter Workflows with AI for Nonprofits** *(Completed: Oct 13, 2026)*
+  4. **Data Analysis with AI for Nonprofits** *(Completed: Oct 19, 2026)*
+  5. **Optimize Creativity and Fundraising with AI for Nonprofits** *(Completed: Oct 20, 2026)*
+* **Certificate & Learning Path Verification:**  
+  ![Canva AI for Nonprofits Course Series Completion](assets/certificates/ai_for_nonprofits_course_path.png)
+
+---
+
+### 3. Certified CodeAI Facilitator (AI Concentrator Track)
 * **Issuing Organization:** **CodeAI** ([code.org](https://code.org))
 * **Issue Date:** October 2026 | **Certificate ID:** `IFT26-029`
 * **Signatory:** **Karim Meghji** — *President and CEO, CodeAI*
@@ -31,7 +46,7 @@
 
 ---
 
-### 3. Unity Professional Development Course
+### 4. Unity Professional Development Course
 * **Issuing Organization:** **Unity Technologies (Unity Education)**
 * **Issue Date:** August 10, 2025
 * **Course Instructor:** **Bradston Henry** — *Professional Development Course Instructor*
@@ -45,7 +60,7 @@
 
 ---
 
-### 4. Teacher Educator Programme: Skills for 21st Century Teaching & Learning
+### 5. Teacher Educator Programme: Skills for 21st Century Teaching & Learning
 * **Issuing Organizations:** **The Open University (OU)**, **African Council for Distance Education (ACDE)**, **TESSA**, **Institute of Educational Technology (IET)**
 * **Issue Date:** April 7, 2025
 * **Course Focus:** How teacher educators can model excellent teaching practices and mentor teachers to develop modern 21st-century pedagogical skills.
@@ -56,7 +71,7 @@
 
 ---
 
-### 5. Code Clubs Knowledge Level Certificate
+### 6. Code Clubs Knowledge Level Certificate
 * **Issuing Organization:** **Team4Tech**
 * **Date Recorded:** August 16, 2026
 * **Signatory:** **Julie Clugage** — *Co-Founder and Executive Director, Team4Tech*
@@ -66,7 +81,7 @@
 
 ---
 
-### 6. Certificate of Appreciation — Mentor in Vivo Ignite 2026
+### 7. Certificate of Appreciation — Mentor in Vivo Ignite 2026
 * **Issuing Organizations:** **Shooting Stars Foundation** & **Mango Education**
 * **Role:** **Mentor**
 * **Signatory:** **R. Obuli Chandran** — *CEO, Mango Education*
@@ -75,7 +90,7 @@
 
 ---
 
-### 7. NDT Level II Certified Inspector
+### 8. NDT Level II Certified Inspector
 * **Certification Standard:** **SNT-TC-1A**
 * **Issuing Body:** **Quality Inspection Services (QIS), Trichy**
 * **Competency:** Non-Destructive Testing practical and theoretical inspection methods for structural materials, welds, and manufactured mechanical components.
