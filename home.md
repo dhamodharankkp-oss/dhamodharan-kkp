@@ -1,6 +1,6 @@
 # Dhamodharan KKP
 
-> **Empowering Rural Communities @ Payir | Independent Researcher in Additive Manufacturing | Senior Design Engineer @ Tecplore**  
+> **Program & Digital Initiatives Enabler — Payir | Independent Researcher | Senior Design Engineer — Tecplore**  
 > *Tiruchirappalli, Tamil Nadu, India*
 
 Welcome to my personal documentation hub and portfolio. Here you will find documentation of my open research in additive manufacturing, parametric CAD design, AR/WebXR experiences, and creative computing.
@@ -23,9 +23,10 @@ Welcome to my personal documentation hub and portfolio. Here you will find docum
 
 With over a decade of multifaceted experience spanning mechanical engineering, industry, academia, and digital enablement, my work centers on technology enablement, procedural CAD modeling, and independent research:
 
-* **Rural Community Enablement @ Payir:** Focusing on beginner-level AI workflows, Google Workspace automations, and foundational NGO administrative workflows to support rural community operations.
-* **Independent Open Research:** Conducting open research in Additive Manufacturing (Design for Additive Manufacturing - DfAM), constructionist maker pedagogy, tactile math manipulatives, and physical computing frameworks (*open research focus; not directly teaching in classrooms*).
-* **Engineering Design @ Tecplore:** Specializing specifically in **Additive Manufacturing** and **AR / WebXR** spatial experiences.
+* **Program & Digital Initiatives Enabler @ Payir:** Focusing on AI workflows, Google Workspace automation, and NGO administrative works at a beginner level.
+* **Independent Open Research:** Facilitating creative learning experiences, tinkering workshops, physical computing, and exploratory maker projects grounded in constructionist pedagogy. *(Note: Doing open research in this area only; not directly teaching students).*
+* **Senior Design Engineer @ Tecplore:** Specializing strictly in **Additive Manufacturing** and **AR / WebXR** only.
+* **Mentorship:** Past / periodic roles (Naan Mudhalvan, Vivo Ignite) — *not fully active*.
 * **Academic & Industrial Background:** 9+ years in collegiate engineering education (MAMCET & MIET), 7 years as a precision machining entrepreneur, and industrial sourcing/design roles.
 
 ---
@@ -45,21 +46,23 @@ With over a decade of multifaceted experience spanning mechanical engineering, i
 
 ### 1. Current Roles & Research
 
-* **Project Associate** — *Payir* *(May 2024 – Present | Turaiyur, Tamil Nadu)*  
-  * Supporting organizational operations through AI workflows and Google Workspace automations.
-  * Assisting with beginner-level NGO administrative tasks and digital record management.
+* **Program & Digital Initiatives Enabler** — *Payir* *(May 2024 – Present | Turaiyur, Tamil Nadu)*  
+  * AI workflows, Google Workspace automation, and NGO administrative works at a beginner level.
+  * Digital record management and operational support for rural community initiatives.
 
 * **Independent Researcher** — *Self-Employed* *(September 2025 – Present)*  
+  * Facilitating creative learning experiences, tinkering workshops, physical computing, and exploratory maker projects grounded in constructionist pedagogy.
   * Conducting open research in **Additive Manufacturing** and **Design for Additive Manufacturing (DfAM)**.
   * Formulating open educational frameworks, empirical slicing optimizations, and parametric code (OpenSCAD) for tactile learning manipulatives (such as the Numicon DBR redesign).
   * *(Note: Focus is strictly on independent open research and framework design, not direct student teaching).*
 
 * **Senior Design Engineer** — *Tecplore* *(July 2023 – Present)*  
-  * Dedicated focus on **Additive Manufacturing** (DfAM, 3D printing pipelines) and **Augmented Reality (AR / WebXR)** spatial interactive applications.
+  * Dedicated focus strictly on **Additive Manufacturing** and **AR / WebXR** only.
+  * DfAM, 3D printing pipelines, and WebXR spatial interactive applications.
 
 * **Mentorship Activities** *(Past / Periodic — currently not fully active)*  
-  * *Naan Mudhalvan (Tamil Nadu Skill Development Mission):* Previously trained faculty and students in 3D printing, IoT, and Industry 4.0 lab setups.
   * *Vivo Ignite 2026:* Mentored student innovators in prototype engineering and pitch design.
+  * *Naan Mudhalvan (Tamil Nadu Skill Development Mission):* Previously trained faculty and students in 3D printing, IoT, and Industry 4.0 lab setups.
 
 ---
 
