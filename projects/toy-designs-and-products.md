@@ -1,5 +1,10 @@
-> For the complete documentation index, see [llms.txt](https://dhamodharankkp.gitbook.io/dhamodharan-kkp/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://dhamodharankkp.gitbook.io/dhamodharan-kkp/projects/toy-designs-and-products.md).
-
 # Toy Designs & Products
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="/dhamodharan-kkp/projects/toy-designs-and-products/morphplay-circle-to-sphere.md">MorphPlay – Circle to Sphere</a></td></tr></tbody></table>
+> **Tangible kinetic toys, geometric manipulatives, and educational fabrication.**
+
+---
+
+Explore the documented designs:
+
+* [**MorphPlay – Circle to Sphere**](toy-designs-and-products/morphplay-circle-to-sphere.md): Kinetic topological toy exploring continuous dimensional transitions from flat circular discs into three-dimensional spheres.
+* [**Numicon Math Manipulatives (Shapes 1–10)**](toy-designs-and-products/numicon-math-shapes.md): DBR redesign of foundational mathematical arithmetic tiles with shell-dominant slicing optimization and classroom durability.
