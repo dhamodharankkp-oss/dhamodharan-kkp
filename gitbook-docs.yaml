@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: Dhamodharan KKP
+  structure:
+    - type: space
+      key: dhamodharan-kkp
+      title: Dhamodharan KKP
+      path: dhamodharan-kkp
+      default: true
+      content:
+        directory: .
