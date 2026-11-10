@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [Certifications & Credentials](certifications.md)
 
 ## Research & Frameworks
 
@@ -17,8 +18,8 @@
   * [MorphPlay – Circle to Sphere](projects/toy-designs-and-products/morphplay-circle-to-sphere.md)
   * [Numicon Math Manipulatives (Shapes 1–10)](projects/toy-designs-and-products/numicon-math-shapes.md)
   * [Tamil Mensuration 3D Solids (அளவியல்)](projects/toy-designs-and-products/tamil-mensuration-openscad.md)
-  * [Parametric Math Manipulatives (AI + EdTech)](projects/toy-designs-and-products/parametric-math-manipulatives.md)
-  * [AI + CS Facilitator Training (CodeAI)](projects/toy-designs-and-products/codeai-ift.md)
+  * [Parametric Math Manipulatives (AI + OpenSCAD)](projects/toy-designs-and-products/parametric-math-manipulatives.md)
+  * [CodeAI Facilitator Training & Evidence](projects/toy-designs-and-products/codeai-ift.md)
 
 * [Tinkering & Creative Coding](projects/tinkering/turtle-art/turtle-art.md)
   * [OctoStudio & MIT Media Lab LCL Reflection](projects/tinkering/creative-coding/octostudio-lcl.md)
