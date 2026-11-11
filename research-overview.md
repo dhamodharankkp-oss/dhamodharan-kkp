@@ -45,7 +45,7 @@ This project documents the open research journey in:
    *Kinetic topological toy exploring continuous dimensional transitions from flat discs into three-dimensional spherical geometries.*
 3. [**Turtle Art – Mathematical Patterns**](projects/tinkering/turtle-art/turtle-art-mathematical-patterns.md)  
    *Transforming algorithmic block coding into vector SVG curves and physical 3D-printed geometric reliefs.*
-4. [**OctoStudio & MIT Media Lab LCL Reflections**](projects/tinkering/octastudio/octastudio-lcl-mit.md)  
+4. [**OctoStudio & MIT Media Lab LCL Reflections**](projects/tinkering/creative-coding/octostudio-lcl.md)  
    *Mobile creative coding, physical computing, sensor integration, and makerspace pedagogy at Aarvam Learning Lab.*
 
 ---

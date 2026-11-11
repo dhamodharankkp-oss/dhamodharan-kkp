@@ -1,3 +1,8 @@
+---
+title: Open Science, GitBook & DOI Archival Workflow
+hidden: true
+---
+
 # Open Science, GitBook & DOI Archival Workflow for 3D-Printed Toy Design (DBR)
 
 This document establishes the end-to-end scholarly dissemination, version-control, and archival pipeline for the research project: **"Reverse-Engineering, Design-Based Research (DBR), and Agentic Iteration in Functional Toy Design"**. 

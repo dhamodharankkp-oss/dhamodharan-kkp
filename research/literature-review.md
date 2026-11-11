@@ -1,3 +1,8 @@
+---
+title: Literature Review Digest
+hidden: true
+---
+
 # Literature Review Digest: Pedagogical Integration, Experimental Prototyping, Occupational Health Risks, and Functional Toy Design in Additive Manufacturing
 
 ## 1. Theme 1: Spatial Cognition & Digital Design Pedagogy

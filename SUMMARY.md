@@ -8,9 +8,6 @@
 * [Research Overview](research-overview.md)
 * [DBR Concept Note](research/dbr-concept-note.md)
 * [Numicon Case Study (Research)](research/numicon-case-study.md)
-* [Pedagogy & Manufacturing](research/pedagogy-and-manufacturing.md)
-* [Literature Review](research/literature-review.md)
-* [Open Science & DOI Workflow](research/open-science-doi-workflow.md)
 
 ## Projects
 

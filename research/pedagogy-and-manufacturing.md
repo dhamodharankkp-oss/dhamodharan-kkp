@@ -1,3 +1,8 @@
+---
+title: Pedagogical Integration & Functional Toy Manufacturing Framework
+hidden: true
+---
+
 # Pedagogical Integration & Functional Toy Manufacturing Framework
 
 This operational framework synthesizes empirical literature across educational design paradigms and additive manufacturing engineering to drive the Design-Based Research (DBR) cycle for functional toy design.
