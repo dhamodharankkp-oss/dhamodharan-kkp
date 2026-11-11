@@ -26,7 +26,7 @@ With over a decade of multifaceted experience spanning mechanical engineering, i
 
 * **Program & Digital Initiatives Enabler @ Payir:** Focusing on AI workflows, Google Workspace automation, and NGO administrative works at a beginner level.
 * **Independent Open Research:** Facilitating creative learning experiences, tinkering workshops, physical computing, and exploratory maker projects grounded in constructionist pedagogy. _(Note: Doing open research in this area only; not directly teaching students)._
-* **Design Contributor @ Tecplore:** Contributing technical models and pipelines strictly in **Additive Manufacturing** and **AR / WebXR** only *(voluntary project collaboration; non-salaried)*.
+* **Design Contributor @ Tecplore:** Contributing technical designs strictly in **Additive Manufacturing** (DfAM, 3D printing pipelines) and **AR / WebXR** spatial interactive applications.
 * **Mentorship:** Past / periodic roles (Naan Mudhalvan, Vivo Ignite) — _not fully active_.
 * **Academic & Industrial Background:** 9+ years in collegiate engineering education (MAMCET & MIET), 7 years as a precision machining entrepreneur, and industrial sourcing/design roles.
 
@@ -57,7 +57,6 @@ With over a decade of multifaceted experience spanning mechanical engineering, i
   * _(Note: Focus is strictly on independent open research and framework design, not direct student teaching)._
 * **Design Contributor** — _Tecplore_ _(July 2023 – Present)_
   * Contributing technical designs strictly in **Additive Manufacturing** (DfAM, 3D printing pipelines) and **AR / WebXR** spatial interactive applications only.
-  * _(Note: Voluntary / open project collaboration; not a salaried employee)._
 * **Mentorship Activities** _(Past / Periodic — currently not fully active)_
   * _Vivo Ignite 2026:_ Mentored student innovators in prototype engineering and pitch design.
   * _Naan Mudhalvan (Tamil Nadu Skill Development Mission):_ Previously trained faculty and students in 3D printing, IoT, and Industry 4.0 lab setups.
