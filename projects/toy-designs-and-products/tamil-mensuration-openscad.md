@@ -1,7 +1,7 @@
 # Tamil Mensuration 3D Solids (அளவியல்) via OpenSCAD & 3D Printing
 
 > **Tactile Geometric Learning for Tamil Nadu Samacheer Kalvi Mathematics (Class 10 - Chapter 7)**  
-> *Developed by Dhamodharan KKP — Design Engineer & Makerspace Educator*
+> *Developed by Dhamodharan KKP — Makerspace Educator & Design Contributor*
 
 ---
 

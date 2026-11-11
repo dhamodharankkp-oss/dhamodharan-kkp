@@ -3,7 +3,7 @@
 ### Open Research in Additive Manufacturing for Educational Toy Kits
 
 by **Dhamodharan KKP**  
-*Makerspace Educator, Design Engineer & Independent Researcher*
+*Makerspace Educator, Independent Researcher & Design Contributor*
 
 ---
 
