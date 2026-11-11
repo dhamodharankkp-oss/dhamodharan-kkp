@@ -13,7 +13,7 @@
 * **Track:** **AI Concentrator Facilitator Track**
 * **Certificate ID:** `IFT26-029` (Verification: `felipe.fontecilla@code.org`)
 * **Authorized Signatory:** **Karim Meghji** — *President and Chief Executive Officer, CodeAI*
-* **Certificate Document:** [`IFT26-029_Dhamodharan_K.pdf`](../../assets/certificates/IFT26-029_Dhamodharan_K.pdf)
+* **Certificate Document:** [`IFT26-029_Dhamodharan_K.pdf`](../../../assets/certificates/IFT26-029_Dhamodharan_K.pdf)
 
 #### Professional Learning Hours Breakdown (16 Hours Total):
 | Module / Workshop | Track Duration | Focus & Competency |
@@ -31,7 +31,7 @@
 * **Role:** **Mentor in Vivo Ignite 2026**
 * **Authorized Signatory:** **R. Obuli Chandran** — *CEO, Mango Education*
 * **Citation:** *"In recognition of outstanding contribution as a Mentor in Vivo Ignite 2026. Guidance and expertise were instrumental in helping participants refine their ideas, build functional prototypes, and craft compelling presentation videos for the national evaluation."*
-* **Certificate Document:** [`Dhamodharan - Vivo Ignite 2026 - Mentoring Certificate.pdf`](../../assets/certificates/Dhamodharan%20-%20Vivo%20Ignite%202026%20-%20Mentoring%20Certificate.pdf)
+* **Certificate Document:** [`Dhamodharan - Vivo Ignite 2026 - Mentoring Certificate.pdf`](../../../assets/certificates/Dhamodharan%20-%20Vivo%20Ignite%202026%20-%20Mentoring%20Certificate.pdf)
 
 ---
 

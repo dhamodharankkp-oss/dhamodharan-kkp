@@ -22,6 +22,3 @@ Welcome to the **Toy Designs & EdTech** laboratory portfolio. This space documen
 
 * [**Parametric Math Manipulative Baseline Generator (AI + OpenSCAD)**](toy-designs-and-products/parametric-math-manipulatives.md)  
   *Bridging cognitive spatial reasoning research and physical making via Agentic AI workflows in OpenSCAD.*
-
-* [**AI + CS Facilitator Training (CodeAI)**](toy-designs-and-products/codeai-ift.md)  
-  *Community of Practice curriculum, hands-on classroom interventions, and AI literacy modules for makerspace educators.*

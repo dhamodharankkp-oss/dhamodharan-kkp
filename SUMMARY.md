@@ -17,9 +17,9 @@
   * [Tamil Mensuration 3D Solids (அளவியல்)](projects/toy-designs-and-products/tamil-mensuration-openscad.md)
   * [Tactile Patterned Cone Surface](projects/toy-designs-and-products/cone-surface-tactile-toy.md)
   * [Parametric Math Manipulatives (AI + OpenSCAD)](projects/toy-designs-and-products/parametric-math-manipulatives.md)
-  * [CodeAI Facilitator Training & Evidence](projects/toy-designs-and-products/codeai-ift.md)
 
 * [Tinkering & Creative Coding](projects/tinkering/turtle-art/turtle-art.md)
+  * [CodeAI Facilitator Training & Evidence](projects/tinkering/creative-coding/codeai-ift.md)
   * [OctoStudio & MIT Media Lab LCL Reflection](projects/tinkering/creative-coding/octostudio-lcl.md)
   * [Turtle Art – Mathematical Patterns](projects/tinkering/turtle-art/turtle-art-mathematical-patterns.md)
 

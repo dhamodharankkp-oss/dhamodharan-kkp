@@ -137,8 +137,8 @@ Indexed on [Google Scholar](https://scholar.google.com/citations?user=JaxM2VsAAA
   * [**Tamil Mensuration 3D Solids (அளவியல்)**](projects/toy-designs-and-products/tamil-mensuration-openscad.md): OpenSCAD tactile models for Tamil Nadu Class 10 Math.
   * [**Tactile Patterned Cone Surface**](projects/toy-designs-and-products/cone-surface-tactile-toy.md): Autodesk Fusion 360 sensory geometric manipulative with dimpled surface lattice.
   * [**Parametric Math Manipulatives (AI + OpenSCAD)**](projects/toy-designs-and-products/parametric-math-manipulatives.md): Agentic AI workflows with OpenSCAD.
-  * [**CodeAI Facilitator Training & Certifications**](projects/toy-designs-and-products/codeai-ift.md): Certified CodeAI Facilitator documentation & Vivo Ignite.
 * [**Tinkering & Creative Coding**](projects/tinkering/turtle-art/turtle-art.md):
+  * [**CodeAI Facilitator Training & Certifications**](projects/tinkering/creative-coding/codeai-ift.md): Certified CodeAI Facilitator documentation & Vivo Ignite.
   * [**OctoStudio & MIT Media Lab LCL Reflection**](projects/tinkering/creative-coding/octostudio-lcl.md): 4 Ps, sensor computation, and open research reflection.
   * [**Turtle Art – Mathematical Patterns**](projects/tinkering/turtle-art/turtle-art-mathematical-patterns.md): Generative code to 3D print.
 * [**Augmented Reality (AR) & WebXR Overview**](projects/ar-webxr-overview.md): Convex Lens optical bench, 3D animal gallery, and butterfly flight experiences.
