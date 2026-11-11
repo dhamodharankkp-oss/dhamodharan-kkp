@@ -18,6 +18,7 @@
   * [MorphPlay – Circle to Sphere](projects/toy-designs-and-products/morphplay-circle-to-sphere.md)
   * [Numicon Math Manipulatives (Shapes 1–10)](projects/toy-designs-and-products/numicon-math-shapes.md)
   * [Tamil Mensuration 3D Solids (அளவியல்)](projects/toy-designs-and-products/tamil-mensuration-openscad.md)
+  * [Tactile Patterned Cone Surface](projects/toy-designs-and-products/cone-surface-tactile-toy.md)
   * [Parametric Math Manipulatives (AI + OpenSCAD)](projects/toy-designs-and-products/parametric-math-manipulatives.md)
   * [CodeAI Facilitator Training & Evidence](projects/toy-designs-and-products/codeai-ift.md)
 

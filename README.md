@@ -137,6 +137,7 @@ Indexed on [Google Scholar](https://scholar.google.com/citations?user=JaxM2VsAAA
   * [**MorphPlay: Circle to Sphere**](projects/toy-designs-and-products/morphplay-circle-to-sphere.md): Kinetic topological toy.
   * [**Numicon Math Manipulatives (Shapes 1–10)**](projects/toy-designs-and-products/numicon-math-shapes.md): DBR redesign of arithmetic tiles with shell-dominant slicing.
   * [**Tamil Mensuration 3D Solids (அளவியல்)**](projects/toy-designs-and-products/tamil-mensuration-openscad.md): OpenSCAD tactile models for Tamil Nadu Class 10 Math.
+  * [**Tactile Patterned Cone Surface**](projects/toy-designs-and-products/cone-surface-tactile-toy.md): Autodesk Fusion 360 sensory geometric manipulative with dimpled surface lattice.
   * [**Parametric Math Manipulatives (AI + OpenSCAD)**](projects/toy-designs-and-products/parametric-math-manipulatives.md): Agentic AI workflows with OpenSCAD.
   * [**CodeAI Facilitator Training & Certifications**](projects/toy-designs-and-products/codeai-ift.md): Certified CodeAI Facilitator documentation & Vivo Ignite.
 * [**Tinkering & Creative Coding**](projects/tinkering/turtle-art/turtle-art.md):
