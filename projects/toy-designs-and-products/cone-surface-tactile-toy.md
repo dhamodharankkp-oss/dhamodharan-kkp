@@ -1,7 +1,7 @@
 # Tactile Patterned Cone Surface
 
 > **Tactile compound geometric solid with parametric dimpled surface lattice modeled in Autodesk Fusion 360 for sensory learning, mensuration intuition, and additive manufacturing.**\
-> _&#x44;esigned by Dhamodharan KKP — Senior Design Engineer & Additive Manufacturing Researcher_
+> _Designed by Dhamodharan KKP — Design Engineer & Additive Manufacturing Researcher_
 
 ***
 

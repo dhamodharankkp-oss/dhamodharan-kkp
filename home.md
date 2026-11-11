@@ -26,7 +26,7 @@ With over a decade of multifaceted experience spanning mechanical engineering, i
 
 * **Program & Digital Initiatives Enabler @ Payir:** Focusing on AI workflows, Google Workspace automation, and NGO administrative works at a beginner level.
 * **Independent Open Research:** Facilitating creative learning experiences, tinkering workshops, physical computing, and exploratory maker projects grounded in constructionist pedagogy. _(Note: Doing open research in this area only; not directly teaching students)._
-* **Senior Design Engineer @ Tecplore:** Specializing strictly in **Additive Manufacturing** and **AR / WebXR** only.
+* **Design Engineer @ Tecplore:** Specializing strictly in **Additive Manufacturing** and **AR / WebXR** only.
 * **Mentorship:** Past / periodic roles (Naan Mudhalvan, Vivo Ignite) — _not fully active_.
 * **Academic & Industrial Background:** 9+ years in collegiate engineering education (MAMCET & MIET), 7 years as a precision machining entrepreneur, and industrial sourcing/design roles.
 
@@ -55,7 +55,7 @@ With over a decade of multifaceted experience spanning mechanical engineering, i
   * Conducting open research in **Additive Manufacturing** and **Design for Additive Manufacturing (DfAM)**.
   * Formulating open educational frameworks, empirical slicing optimizations, and parametric code (OpenSCAD) for tactile learning manipulatives (such as the Numicon DBR redesign).
   * _(Note: Focus is strictly on independent open research and framework design, not direct student teaching)._
-* **Senior Design Engineer** — _Tecplore_ _(July 2023 – Present)_
+* **Design Engineer** — _Tecplore_ _(July 2023 – Present)_
   * Dedicated focus strictly on **Additive Manufacturing** and **AR / WebXR** only.
   * DfAM, 3D printing pipelines, and WebXR spatial interactive applications.
 * **Mentorship Activities** _(Past / Periodic — currently not fully active)_

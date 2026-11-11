@@ -1,7 +1,7 @@
 # Augmented Reality (AR) & WebXR Projects: Overview
 
 > **Browser-Based Spatial Computing, Educational Physics Simulations, and 3D Biodiversity Experiences**  
-> *Developed by Dhamodharan KKP — Senior Design Engineer at Tecplore*
+> *Developed by Dhamodharan KKP — Design Engineer at Tecplore*
 
 ---
 
