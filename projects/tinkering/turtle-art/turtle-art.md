@@ -1,31 +1,25 @@
 # Tinkering & Creative Coding
 
-> **Exploratory physical computing, computational tinkering, mobile sensor storytelling, and generative mathematical art grounded in constructionist pedagogy.**
+Notes and project documentation on physical computing, mobile sensor coding, and algorithmic math art grounded in constructionist learning.
 
 ---
 
-## 🎨 Creative Computing Overview
+## Overview
 
-Welcome to the **Tinkering & Creative Coding** laboratory portfolio. Grounded in Seymour Papert's **Constructionist learning theory** and the MIT Media Lab Lifelong Kindergarten **4 Ps (Projects, Passion, Peers, Play)** framework, our work explores how learners of all ages can use code as an expressive, personal, and creative medium.
-
-Rather than treating computer science as passive syntax drills, these initiatives bridge code with physical materials, mobile sensors, machine learning intuition, and tangible 3D-printed artifacts.
+My work in creative coding is shaped by Seymour Papert's constructionist ideas and the MIT Media Lab Lifelong Kindergarten **4 Ps (Projects, Passion, Peers, Play)**. Instead of treating coding as syntax drills, these projects connect code with physical objects, phone sensors, and 3D-printed models.
 
 ---
 
-## 🧩 Featured Projects & Initiatives
+## Projects & Notes
 
 ### 1. [CodeAI Facilitator Training & Evidence](../creative-coding/codeai-ift.md)
 
-* **Credential:** Certified CodeAI Facilitator — *AI Concentrator Facilitator Track (16 Professional Learning Hours)* (ID: `IFT26-029`).
-* **National Mentorship:** Mentor for student innovators in **Vivo Ignite 2026** (Mango Education & Shooting Stars Foundation).
-* **Pedagogical Pillars:**
-  * **Facilitator 101 & Inquiry Pedagogy:** Coaching educators in culturally responsive computing and Universal Design for Learning (UDL).
-  * **Dance Party: AI Edition:** Blending choreographic algorithms, musical rhythm, and generative AI effects.
-  * **AI for Oceans & Machine Learning:** De-blackboxing machine learning classification, training dataset bias, and ethical environmental modeling.
-  * **Mix & Move with AI:** Camera-driven computer vision, body tracking heuristics, and physical movement computing.
-* **Classroom Evidence:** Field-tested at **Aarvam Learning Lab** in collaboration with **Payir** and **Amagi Foundation**, developing bilingual (Tamil & English) AI literacy resources for rural schools.
+* **Credential:** Certified CodeAI Facilitator — *AI Concentrator Facilitator Track (16 hours)* (ID: `IFT26-029`).
+* **Mentorship:** Mentored student innovators for **Vivo Ignite 2026** (Mango Education & Shooting Stars Foundation).
+* **Modules Covered:** Facilitator 101, CodeAI Pedagogy, *Dance Party: AI Edition*, *AI for Oceans*, and *Mix & Move with AI*.
+* **Field Notes:** Reflections from community practice sessions connected with **Aarvam Learning Lab**, **Payir**, and **Amagi Foundation**, including bilingual (Tamil & English) AI literacy ideas.
 
-👉 [**Read Full CodeAI Documentation & Portfolio Evidence →**](../creative-coding/codeai-ift.md)
+[Read the CodeAI documentation and portfolio notes](../creative-coding/codeai-ift.md)
 
 ---
 
@@ -33,15 +27,11 @@ Rather than treating computer science as passive syntax drills, these initiative
 
 ![OctoStudio Sensor Coding & Aarvam Learning Lab Reflection](../../assets/lcl/image_27.png)
 
-* **Mobile Physical Computing:** Using **OctoStudio** (MIT Media Lab) to turn smartphones and tablets into expressive computational instruments using built-in hardware sensors (accelerometer, shake, tilt, light, proximity).
-* **MIT Lifelong Kindergarten (LCL) Reflection Canvas:**
-  * **Projects:** Autonomous learner-driven creative coding without restrictive instruction sheets.
-  * **Passion:** Connecting personal interests—from village folklore and interactive puppetry to motion-triggered animations.
-  * **Peers:** Collaborative international co-design, asynchronous gallery critique, and local peer learning circles.
-  * **Play:** Embracing risk-taking, joyful tinkering, and debugging as creative discovery.
-* **Rural Makerspace Integration:** Documenting on-the-ground interventions at **Aarvam Learning Lab** in rural Tamil Nadu, bridging low-barrier mobile tools with community storytelling.
+* **Mobile Physical Computing:** Using **OctoStudio** to turn phones and tablets into interactive tools via built-in sensors (tilt, shake, light, proximity).
+* **MIT LCL Synthesis:** Reflections organized around Projects, Passion, Peers, and Play, along with peer feedback from international educators.
+* **Local Context:** Notes on low-barrier mobile creative coding for rural Tamil Nadu learning spaces.
 
-👉 [**Explore the OctoStudio & LCL Reflection Canvas →**](../creative-coding/octostudio-lcl.md)
+[Read the OctoStudio & LCL reflection](../creative-coding/octostudio-lcl.md)
 
 ---
 
@@ -49,32 +39,15 @@ Rather than treating computer science as passive syntax drills, these initiative
 
 ![3D Printed Turtle Art Mathematical Relief](../../assets/tinkering/turtle_art_3d_print.jpg)
 
-* **Algorithmic Geometry in Motion:** Using block-based **Turtle Art** where geometry is not drawn statically, but generated through turtle locomotion and angular heading commands.
-* **Mathematical Concepts Explored:**
-  * **Inner Loop (Repeat 6):** Step displacement with $60^\circ$ turns (exterior angle calculation: $360^\circ / 6 = 60^\circ$) creating regular hexagonal modules.
-  * **Outer Loop (Repeat 36):** Incremental $40^\circ$ rotational offsets, synthesizing radial floral symmetries through nested repetition.
-* **Code-to-Physical Pipeline:** 
-  $$\text{Turtle Art Block Code} \longrightarrow \text{Vector SVG Export} \longrightarrow \text{Tinkercad 3D Modeling} \longrightarrow \text{FDM 3D Printing}$$
-* **Tangible Embodiment:** Transforming ephemeral screen pixels into tactile 3D printed reliefs that students can hold, trace, and measure.
+* **Algorithmic Geometry:** Using block-based **Turtle Art** to generate patterns through movement and turn commands rather than static drawing.
+* **Math Behind the Pattern:** An inner loop (repeat 6, $60^\circ$ turns) builds a hexagonal module, while an outer loop (repeat 36, $40^\circ$ rotation) creates a radial pattern.
+* **Code to 3D Print:** Turtle Art block code $\to$ SVG export $\to$ Tinkercad extrusion $\to$ FDM 3D print.
 
-👉 [**Read the Turtle Art Mathematical Patterns Guide →**](turtle-art-mathematical-patterns.md)
+[Read the Turtle Art guide](turtle-art-mathematical-patterns.md)
 
 ---
 
-## 🧱 Pedagogical Framework
-
-```mermaid
-flowchart TD
-    A["🧩 Constructionist Creative Computing<br>Seymour Papert • Mitchel Resnick"] --> B1["💡 Projects<br>Personally meaningful artifacts"]
-    A --> B2["❤️ Passion<br>Curiosity-driven agency & intrinsic motivation"]
-    A --> B3["🤝 Peers<br>Collaborative community feedback loops"]
-    A --> B4["🎲 Play<br>Iterative tinkering, risk-taking & joy"]
-    B1 & B2 & B3 & B4 --> C["🚀 Tangible Learning Outcomes<br>Mobile Sensor Coding • Generative Art • AI Literacy • Physical Making"]
-```
-
----
-
-## 🔗 Related Sections
-* [**Toy Designs, Products & EdTech Manipulatives**](../../toy-designs-and-products.md) — Tangible kinetic toys, Numicon math manipulatives, and Tamil mensuration solids.
-* [**Instructables DIY Tutorials**](../../instructables/instructables.md) — Step-by-step maker tutorials including the *Pi Master Challenge*.
-* [**Augmented Reality (AR) & WebXR Overview**](../../ar-webxr-overview.md) — Browser-based spatial computing and educational physics simulations.
+## Related Sections
+* [**Toy Designs, Products & EdTech Manipulatives**](../../toy-designs-and-products.md)
+* [**Instructables DIY Tutorials**](../../instructables/instructables.md)
+* [**Augmented Reality (AR) & WebXR Overview**](../../ar-webxr-overview.md)
